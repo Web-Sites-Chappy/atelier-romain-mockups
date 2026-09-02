@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+*.log
+.DS_Store
+
+# Legacy mockups and local brand source files kept as references
+/*.html
+/projets/*.html
+/assets/
+/ATELIER ROMAIN - Identite visuelle/
+/.claude/
+/CLAUDE.md
