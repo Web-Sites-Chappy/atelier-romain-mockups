@@ -1,7 +1,9 @@
 node_modules/
 .next/
 out/
+artifacts/
 *.log
+*.tsbuildinfo
 .DS_Store
 
 # Legacy mockups and local brand source files kept as references
