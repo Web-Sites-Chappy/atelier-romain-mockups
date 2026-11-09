@@ -1,0 +1,79 @@
+{
+  "title": "Lagnes — Rénovation d'un mas du XVIIe siècle",
+  "shortTitle": "Lagnes",
+  "metaTitle": "Lagnes — Rénovation d'un mas du XVIIe siècle",
+  "metaDescription": "À Lagnes, un mas du XVIIe siècle entièrement rénové pour une jeune famille. Escalier d'époque, tomettes patinées, enduits à la chaux.",
+  "label": "Rénovation · Livré en 2023",
+  "location": "Lagnes, Vaucluse",
+  "order": 3,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "Rénovation, maison individuelle"
+    },
+    {
+      "label": "Lieu",
+      "value": "Lagnes, Vaucluse"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "À Lagnes, village où l'atelier est installé, un mas du XVIIe siècle avait fini par perdre son unité. Divisé au fil du temps en deux logements, fatigué par les années, il attendait qu'on lui rende sa vocation de maison. C'est une jeune famille qui a choisi de lui offrir cette nouvelle vie, et d'y voir grandir ses enfants."
+    },
+    {
+      "heading": "Tout reprendre, des sols à la toiture",
+      "text": "L'état du bâtiment imposait une rénovation complète. La toiture, les planchers et les dallages sont entièrement repris, afin que la structure retrouve la solidité nécessaire pour traverser encore de longues décennies. Ce travail de fond, peu visible une fois achevé, est la condition de tout le reste."
+    },
+    {
+      "heading": "L'escalier, mémoire de la maison",
+      "text": "Au cœur du mas, l'escalier d'époque a traversé les siècles. Ses tomettes, polies par des générations de pas, ont pris une patine qu'aucune restauration ne saurait reproduire. Le projet les conserve telles qu'elles sont, et fait de cet escalier le point d'ancrage de la maison, là où l'histoire du lieu reste la plus lisible."
+    },
+    {
+      "heading": "La chaux, le chêne et le béton ciré",
+      "text": "Les murs retrouvent des plâtres anciens et des enduits à la chaux, qui laissent respirer la maçonnerie comme elle l'a toujours fait. À leurs côtés, le chêne et le béton ciré apportent une écriture plus contemporaine, choisie pour sa qualité et sa durabilité. L'ensemble compose une maison de famille à la fois chaleureuse et actuelle, qui n'efface rien de ce qu'elle a été."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/lagnes/01.jpg",
+      "alt": "Lagnes — séjour"
+    },
+    {
+      "src": "/assets/projects/lagnes/02.jpg",
+      "alt": "Lagnes — entrée"
+    },
+    {
+      "src": "/assets/projects/lagnes/03.jpg",
+      "alt": "Lagnes — escalier"
+    },
+    {
+      "src": "/assets/projects/lagnes/04.jpg",
+      "alt": "Lagnes — salle à manger"
+    },
+    {
+      "src": "/assets/projects/lagnes/05.jpg",
+      "alt": "Lagnes — bureau"
+    },
+    {
+      "src": "/assets/projects/lagnes/06.jpg",
+      "alt": "Lagnes — chambre"
+    },
+    {
+      "src": "/assets/projects/lagnes/07.jpg",
+      "alt": "Lagnes — salle de bain"
+    },
+    {
+      "src": "/assets/projects/lagnes/08.jpg",
+      "alt": "Lagnes — filet"
+    },
+    {
+      "src": "/assets/projects/lagnes/09.jpg",
+      "alt": "Lagnes — porte"
+    },
+    {
+      "src": "/assets/projects/lagnes/10.jpg",
+      "alt": "Lagnes — détail"
+    }
+  ]
+}

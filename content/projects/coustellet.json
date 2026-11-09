@@ -1,0 +1,75 @@
+{
+  "title": "Oppède (Coustellet) — Maison paramédicale",
+  "shortTitle": "Coustellet",
+  "metaTitle": "Coustellet — Maison paramédicale",
+  "metaDescription": "À Coustellet, entre zone commerciale et plaine agricole, une maison paramédicale de 300 m² avec 7 salles de soins et 2 gymnases. Atelier Romain.",
+  "label": "ERP · En consultation",
+  "location": "Oppède (Coustellet), Vaucluse",
+  "order": 2,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "ERP, construction neuve"
+    },
+    {
+      "label": "Lieu",
+      "value": "Oppède (Coustellet), Vaucluse"
+    },
+    {
+      "label": "Surface",
+      "value": "300 m²"
+    },
+    {
+      "label": "Programme",
+      "value": "7 salles de soins, 2 gymnases"
+    },
+    {
+      "label": "Mission",
+      "value": "Complète"
+    },
+    {
+      "label": "Statut",
+      "value": "Consultation des entreprises"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "En lisière de Coustellet, sur la commune d'Oppède, la plaine hésite encore entre les enseignes commerciales et les champs. C'est sur un terrain resté vierge, au bord de cette zone très fréquentée, que prendra place une maison paramédicale de 300 m². Elle réunira sept salles de soins et deux gymnases, pensés pour accueillir chaque jour des patients venus se soigner et se remettre en mouvement."
+    },
+    {
+      "heading": "Trouver sa place dans un paysage ordinaire",
+      "text": "Autour du terrain, les bâtiments artisanaux et industriels se succèdent sans vraiment dialoguer entre eux. Le projet cherchait une autre voie : donner au bâtiment une personnalité réelle, perceptible depuis la route, sans pour autant qu'il se pose en rupture avec la plaine qui l'entoure. Il en résulte une architecture affirmée mais apaisée, qui se distingue de son voisinage sans chercher à l'écraser."
+    },
+    {
+      "heading": "Des circulations au service du soin",
+      "text": "Les clients souhaitaient avant tout des flux fluides et des matériaux de qualité. Le plan a donc été dessiné à partir des déplacements de chacun, de l'accueil jusqu'aux salles de soins et aux gymnases, afin que les parcours s'enchaînent simplement et sans détour. L'accessibilité des personnes à mobilité réduite, essentielle dans un établissement de santé, guide l'organisation de l'ensemble."
+    },
+    {
+      "heading": "Composer avec l'eau",
+      "text": "Le terrain se trouve en zone inondable. Plutôt que de subir cette contrainte, le projet l'a intégrée dès les premières esquisses, pour que la sécurité du bâtiment et le confort de ses usagers aillent de pair."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/coustellet/01.jpg",
+      "alt": "Coustellet — extérieur"
+    },
+    {
+      "src": "/assets/projects/coustellet/02.jpg",
+      "alt": "Coustellet — extérieur"
+    },
+    {
+      "src": "/assets/projects/coustellet/03.jpg",
+      "alt": "Coustellet — intérieur"
+    },
+    {
+      "src": "/assets/projects/coustellet/04.jpg",
+      "alt": "Coustellet — intérieur"
+    },
+    {
+      "src": "/assets/projects/coustellet/05.jpg",
+      "alt": "Coustellet — extérieur"
+    }
+  ]
+}

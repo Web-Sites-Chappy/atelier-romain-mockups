@@ -1,0 +1,23 @@
+{
+  "heroEyebrow": "Atelier d’architecture · Provence",
+  "heroTitle": "Architecture\njuste et\n*vivante.*",
+  "heroLink": "Découvrir nos projets",
+  "heroSlides": [
+    { "image": "/assets/projects/lisle/01.jpg", "alt": "L’Isle-sur-la-Sorgue" },
+    { "image": "/assets/projects/cereste/01.jpg", "alt": "Céreste" },
+    { "image": "/assets/projects/pernes/01.jpg", "alt": "Pernes-les-Fontaines" },
+    { "image": "/assets/projects/lagnes/01.jpg", "alt": "Lagnes" },
+    { "image": "/assets/projects/coustellet/01.jpg", "alt": "Coustellet" }
+  ],
+  "manifestoEyebrow": "Notre approche",
+  "manifestoTitle": "Une architecture *ancrée dans son territoire*, attentive aux matières, à la lumière et aux usages, conçue sur mesure et pour durer",
+  "featuredEyebrow": "Réalisation sélectionnée",
+  "featuredProject": "lisle",
+  "atelierTeaserEyebrow": "L’atelier",
+  "atelierTeaserTitle": "Un atelier à taille humaine, fondé sur la confiance et l’écoute, pour des projets qui vous ressemblent.",
+  "atelierTeaserLink": "Découvrir l’atelier",
+  "serviceTeaserEyebrow": "Votre projet",
+  "serviceTeaserTitle": "Construire, rénover,\ntransformer.",
+  "serviceTeaserText": "De la première esquisse au suivi du chantier, l’atelier vous accompagne à chaque étape avec une vision claire et un engagement constant.",
+  "serviceTeaserLink": "Découvrir nos prestations"
+}

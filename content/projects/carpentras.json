@@ -1,0 +1,47 @@
+{
+  "title": "Carpentras — Rénovation",
+  "shortTitle": "Carpentras",
+  "metaTitle": "Carpentras — Rénovation",
+  "metaDescription": "À Carpentras, la rénovation d'une maison existante adaptée aux usages contemporains. Atelier Romain.",
+  "label": "Rénovation · 2024",
+  "location": "Carpentras, Vaucluse",
+  "order": 7,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "Rénovation"
+    },
+    {
+      "label": "Année",
+      "value": "2024"
+    },
+    {
+      "label": "Lieu",
+      "value": "Carpentras, Vaucluse"
+    },
+    {
+      "label": "Surface",
+      "value": "185 m²"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "La rénovation révèle les qualités d'une maison existante et l'adapte aux usages contemporains.\n\nLes ouvertures, la lumière et les matières naturelles recomposent un lieu de vie généreux, en dialogue avec le paysage provençal."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/carpentras/01.jpg",
+      "alt": "Carpentras — extérieur"
+    },
+    {
+      "src": "/assets/projects/carpentras/02.jpg",
+      "alt": "Carpentras — extérieur"
+    },
+    {
+      "src": "/assets/projects/carpentras/03.jpg",
+      "alt": "Carpentras — intérieur"
+    }
+  ]
+}

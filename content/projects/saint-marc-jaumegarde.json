@@ -1,0 +1,51 @@
+{
+  "title": "Saint-Marc-Jaumegarde — Surélévation d'une maison face à la Sainte-Victoire",
+  "shortTitle": "Saint-Marc-Jaumegarde",
+  "metaTitle": "Saint-Marc-Jaumegarde — Surélévation face à la Sainte-Victoire",
+  "metaDescription": "Près d'Aix-en-Provence, une maison surélevée de deux chambres face à la Sainte-Victoire, en lisière de forêt.",
+  "label": "Surélévation · Projet en cours",
+  "location": "Saint-Marc-Jaumegarde, Bouches-du-Rhône",
+  "order": 11,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "Surélévation, maison individuelle"
+    },
+    {
+      "label": "Lieu",
+      "value": "Saint-Marc-Jaumegarde, Bouches-du-Rhône — près d'Aix-en-Provence"
+    },
+    {
+      "label": "Programme",
+      "value": "2 chambres supplémentaires, réaménagement des extérieurs"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "À Saint-Marc-Jaumegarde, à quelques kilomètres d'Aix-en-Provence, la montagne Sainte-Victoire occupe tout l'horizon. C'est ce paysage, peint inlassablement par Cézanne, que l'on découvre depuis cette maison construite en 2010 en lisière d'une forêt de chênes. Ses propriétaires souhaitaient créer deux chambres supplémentaires. Plutôt que de s'étendre sur le terrain, la maison s'est élevée d'un niveau."
+    },
+    {
+      "heading": "Gagner en hauteur, gagner en regard",
+      "text": "La surélévation offre bien plus que de la surface. En prenant de la hauteur, les nouvelles chambres s'ouvrent sur un panorama encore plus large, où la silhouette calcaire de la Sainte-Victoire se découpe au-dessus de la cime des chênes. Le matin, la montagne s'éclaire de rose, et le soir, elle se teinte d'ocre : chaque chambre devient une fenêtre sur ce spectacle quotidien."
+    },
+    {
+      "heading": "Un permis conquis de haute lutte",
+      "text": "Le terrain se situe dans une zone soumise à plusieurs aléas, notamment le risque d'incendie de forêt, très encadré dans ce massif boisé. Obtenir le permis de construire a demandé un dossier particulièrement rigoureux et une connaissance fine des règles applicables. Atelier Romain a porté cette démarche jusqu'à son aboutissement."
+    },
+    {
+      "heading": "Construire sur l'existant",
+      "text": "Surélever une maison ne s'improvise pas. Il a fallu composer avec la structure existante, vérifier sa capacité à recevoir un nouveau niveau et concevoir une extension qui s'y raccorde sans fragiliser l'ensemble. Ce travail d'ingénierie, invisible une fois le chantier achevé, garantit la pérennité de la maison."
+    },
+    {
+      "heading": "Confort et matières",
+      "text": "Les matériaux, choisis haut de gamme, donnent au nouvel étage une qualité égale à celle de la vue qu'il offre. Une attention particulière a été portée au confort thermique, pour que les chambres restent agréables malgré leur exposition, en plein été comme pendant les nuits fraîches de la colline. Les extérieurs ont enfin été réaménagés pour relier la maison à son jardin et à la forêt qui la borde."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/saint-marc-jaumegarde/01.jpg",
+      "alt": "Saint-Marc-Jaumegarde — extérieur"
+    }
+  ]
+}

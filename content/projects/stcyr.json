@@ -1,0 +1,47 @@
+{
+  "title": "Saint-Cyr-sur-Mer — Reconstruction d'une annexe et création d'un patio",
+  "shortTitle": "Saint-Cyr-sur-Mer",
+  "metaTitle": "Saint-Cyr-sur-Mer — Annexe reconstruite et patio avec spa",
+  "metaDescription": "À Saint-Cyr-sur-Mer, une annexe vétuste devient un espace habitable ouvert sur un patio avec spa encastré. Démolition, reconstruction et abords.",
+  "label": "Extension",
+  "location": "Saint-Cyr-sur-Mer, Var",
+  "order": 9,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "Démolition-reconstruction, annexe habitable, aménagements extérieurs"
+    },
+    {
+      "label": "Lieu",
+      "value": "Saint-Cyr-sur-Mer, Var"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "À Saint-Cyr-sur-Mer, entre les vignes de Bandol et la baie des Lecques, une maison possédait au fond de sa parcelle une ancienne annexe que le temps avait fini par rendre inutilisable. Plutôt que de chercher à la sauver à tout prix, le projet a fait le choix de la démolir pour mieux la reconstruire, et de lui donner enfin un véritable usage : celui d'un espace habitable à part entière."
+    },
+    {
+      "heading": "Repartir sur des bases saines",
+      "text": "La démolition a permis de reprendre le projet à zéro, sur des fondations solides et avec des performances actuelles. La nouvelle annexe s'inscrit dans l'emprise de l'ancienne, mais elle offre désormais un lieu de vie confortable, que l'on peut habiter toute l'année : chambre d'amis, espace indépendant ou refuge au calme, à quelques pas de la maison principale."
+    },
+    {
+      "heading": "Le patio, une pièce à ciel ouvert",
+      "text": "Entre la maison et l'annexe, le patio a été entièrement repensé. Il devient le cœur de la propriété, une pièce extérieure protégée du vent et des regards, où la lumière du Var circule du matin au soir. Un spa y a été encastré, intégré au sol plutôt que posé, pour se fondre dans l'aménagement. On s'y retrouve après une journée à la plage, ou le soir, quand la chaleur retombe et que l'air sent encore le pin."
+    },
+    {
+      "heading": "Des abords remis en valeur",
+      "text": "Les abords ont été remis en état pour accompagner ce nouvel ensemble. Les circulations, les espaces plantés et les transitions entre intérieur et extérieur retrouvent une cohérence, et la parcelle entière gagne en clarté comme en douceur de vivre."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/stcyr/01.jpg",
+      "alt": "Saint-Cyr-sur-Mer — extérieur"
+    },
+    {
+      "src": "/assets/projects/stcyr/02.jpg",
+      "alt": "Saint-Cyr-sur-Mer — patio"
+    }
+  ]
+}

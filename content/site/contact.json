@@ -1,0 +1,14 @@
+{
+  "metaTitle": "Contact",
+  "metaDescription": "Contactez l’Atelier Romain pour votre projet d’architecture en Provence.",
+  "eyebrow": "Contact",
+  "title": "Votre projet\n*commence ici.*",
+  "intro": "Parlez-nous de votre projet, vos besoins et vos envies. Nous vous proposerons un premier échange",
+  "formEyebrow": "Écrivez-nous",
+  "email": "contact@atelier-romain.fr",
+  "addressLines": ["Atelier Romain", "471, chemin du Riotord", "84800 Lagnes"],
+  "phone": "06.81.54.12.78",
+  "phoneHref": "+33681541278",
+  "projectOptions": ["Rénovation", "Extension / surélévation", "Construction neuve", "Aménagement intérieur", "Autre"],
+  "submitLabel": "Envoyer la demande"
+}

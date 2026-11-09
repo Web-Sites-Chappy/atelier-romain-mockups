@@ -1,0 +1,47 @@
+{
+  "title": "L'Isle-sur-la-Sorgue — Rénovation intérieure, quartier Saint-Antoine",
+  "shortTitle": "L'Isle-sur-la-Sorgue, Saint-Antoine",
+  "metaTitle": "L'Isle-sur-la-Sorgue — Rénovation en site occupé",
+  "metaDescription": "Quartier Saint-Antoine, à L'Isle-sur-la-Sorgue : une maison ancienne rénovée de l'intérieur sans que ses habitants la quittent. Sols en parefeuille restaurés.",
+  "label": "Rénovation intérieure",
+  "location": "L'Isle-sur-la-Sorgue, Vaucluse",
+  "order": 5,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "Rénovation intérieure, maison individuelle"
+    },
+    {
+      "label": "Lieu",
+      "value": "L'Isle-sur-la-Sorgue, quartier Saint-Antoine, Vaucluse"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "Dans le quartier Saint-Antoine, à L'Isle-sur-la-Sorgue, une famille vit dans une maison ancienne qui avait besoin de retrouver du confort. Quitter les lieux le temps des travaux n'était pas envisageable : la rénovation devait donc se faire maison habitée, au rythme de la vie quotidienne de ses occupants."
+    },
+    {
+      "heading": "Rénover sans déloger",
+      "text": "Un chantier en site occupé demande une organisation particulière. Chaque intervention a été pensée pour limiter au maximum les désagréments, qu'il s'agisse du bruit, de la poussière ou des coupures, afin que la famille puisse continuer à vivre chez elle dans de bonnes conditions. Ce travail de coordination, discret mais constant, fait partie intégrante de la mission de l'architecte."
+    },
+    {
+      "heading": "Aller à l'essentiel",
+      "text": "Le budget étant serré, le projet s'est concentré sur ce qui change vraiment le quotidien. Les interventions se limitent aux intérieurs. L'amélioration du confort thermique est la première priorité. Elle s'accompagne du renouvellement de la cuisine et de la salle de bain, deux pièces qui n'étaient plus à la hauteur des besoins de la maison."
+    },
+    {
+      "heading": "Les sols en parefeuille, fil conducteur",
+      "text": "Moderniser ne signifiait pas effacer. Les anciennes terres cuites posées en parefeuille, qui couvrent les sols depuis des décennies, sont restaurées avec soin plutôt que remplacées. Elles rappellent l'histoire de la maison et donnent le ton du projet : une rénovation attentive au lieu comme à ceux qui l'habitent."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/lisle-2/01.jpg",
+      "alt": "L'Isle-sur-la-Sorgue — cuisine"
+    },
+    {
+      "src": "/assets/projects/lisle-2/02.jpg",
+      "alt": "L'Isle-sur-la-Sorgue — cheminée"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Lagnes — Restructuration d'un bâtiment en bureaux",
+  "shortTitle": "Lagnes, bureaux",
+  "metaTitle": "Lagnes — Restructuration en bureaux",
+  "metaDescription": "À Lagnes, un bâtiment ancien restructuré en 85 m² de bureaux lumineux : chaux, chêne, isolation biosourcée et jardin méditerranéen sec.",
+  "label": "Bureaux · Chantier en cours",
+  "location": "Lagnes, Vaucluse",
+  "order": 8,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "Bureaux, restructuration"
+    },
+    {
+      "label": "Lieu",
+      "value": "Lagnes, Vaucluse"
+    },
+    {
+      "label": "Surface",
+      "value": "85 m²"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "À Lagnes, au pied des monts de Vaucluse, un bâtiment existant a été entièrement restructuré pour accueillir 85 m² de bureaux. L'enjeu était de transformer un volume ancien en un lieu de travail agréable, où l'on reçoit des clients autant que l'on y passe ses journées, sans rien perdre du caractère provençal de la construction."
+    },
+    {
+      "heading": "Une enveloppe fidèle au village",
+      "text": "La toiture a été entièrement refaite en tuiles canal anciennes, qui inscrivent le bâtiment dans le paysage des toits de Lagnes. Les façades ont reçu des enduits à la chaux talochés, dont la matière irrégulière accroche la lumière et vieillit avec élégance. Derrière cette enveloppe traditionnelle, une isolation biosourcée assure un confort thermique durable, en accord avec la nature des matériaux anciens."
+    },
+    {
+      "heading": "Travailler dans la lumière",
+      "text": "À l'intérieur, la lumière naturelle a guidé l'organisation des espaces. Le béton ciré et le chêne composent une palette sobre et chaleureuse, qui donne aux bureaux une atmosphère calme, propice à la concentration comme aux échanges."
+    },
+    {
+      "heading": "Un jardin sec pour prolonger les bureaux",
+      "text": "Les abords ont été repensés pour l'accueil des clients et pour la qualité de vie de l'équipe. Un jardin méditerranéen sec y a été planté : des essences adaptées au climat, sobres en eau, qui offrent un espace extérieur où faire une pause, et qui changent de couleur au fil des saisons."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/lagnes-bureaux/01.jpg",
+      "alt": "Lagnes, bureaux — extérieur"
+    },
+    {
+      "src": "/assets/projects/lagnes-bureaux/02.jpg",
+      "alt": "Lagnes, bureaux — intérieur"
+    },
+    {
+      "src": "/assets/projects/lagnes-bureaux/03.jpg",
+      "alt": "Lagnes, bureaux — chantier"
+    }
+  ]
+}

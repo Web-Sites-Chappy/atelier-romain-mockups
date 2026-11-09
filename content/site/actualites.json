@@ -1,0 +1,13 @@
+{
+  "metaTitle": "Actualités & conseils",
+  "metaDescription": "Conseils de l’Atelier Romain sur la rénovation, l’architecture et les démarches de projet en Provence.",
+  "eyebrow": "Journal de l’atelier",
+  "title": "Actualités\n*& conseils.*",
+  "intro": "Des repères concrets pour mieux comprendre un projet d’architecture.",
+  "linkLabel": "Nous poser une question",
+  "articles": [
+    { "tag": "Conseils", "title": "Permis de construire en Provence : les étapes à anticiper", "text": "Comprendre les études, délais et pièces nécessaires avant de déposer un dossier." },
+    { "tag": "Rénovation", "title": "Rénover une maison ancienne sans perdre son caractère", "text": "Confort, lumière, matériaux : trouver le juste équilibre entre patrimoine et usages contemporains." },
+    { "tag": "Extension", "title": "Comment agrandir sa maison ?", "text": "Les premières questions à se poser avant de choisir entre extension et surélévation." }
+  ]
+}

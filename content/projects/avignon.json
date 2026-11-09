@@ -1,0 +1,63 @@
+{
+  "title": "Avignon — Maison contemporaine",
+  "shortTitle": "Avignon",
+  "metaTitle": "Avignon — Maison contemporaine de 280 m²",
+  "metaDescription": "Près d'Avignon, une maison neuve de 280 m² baignée de lumière : matériaux clairs, mobilier sur mesure, végétation luxuriante et domotique intégrée.",
+  "label": "Maison individuelle · Livré en 2025",
+  "location": "Environs d'Avignon",
+  "order": 10,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "Construction neuve, maison individuelle"
+    },
+    {
+      "label": "Lieu",
+      "value": "Environs d'Avignon"
+    },
+    {
+      "label": "Surface",
+      "value": "280 m²"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "Aux portes d'Avignon, cette maison neuve de 280 m² est née d'un désir très affirmé de ses propriétaires : vivre dans une architecture résolument contemporaine, épurée et généreuse en lumière. Le projet a été conçu en étroite écoute de leurs goûts, pour aboutir à une maison qui leur ressemble jusque dans ses moindres détails."
+    },
+    {
+      "heading": "La lumière comme matière première",
+      "text": "Tout part de la lumière. Les volumes ont été dessinés pour la laisser entrer largement et la faire circuler d'une pièce à l'autre au fil de la journée. Les matériaux, clairs et minimalistes, la prolongent et la diffusent, donnant aux espaces une atmosphère douce et apaisée, loin de toute froideur."
+    },
+    {
+      "heading": "L'exigence du détail",
+      "text": "Une attention particulière a été portée au confort thermique, pour que la maison reste agréable aussi bien sous le soleil d'été provençal que lors des journées de mistral. Le même soin se retrouve dans la qualité des finitions, où chaque jonction et chaque arête ont été pensées. Le mobilier a été conçu sur mesure, en continuité avec l'architecture, afin que rangements, assises et rangements intégrés trouvent leur place sans jamais encombrer l'espace."
+    },
+    {
+      "heading": "Un jardin qui entre dans la maison",
+      "text": "À l'extérieur, une végétation luxuriante enveloppe la maison et adoucit la rigueur de ses lignes. Cette présence végétale se poursuit à l'intérieur, si bien que la frontière entre dedans et dehors s'estompe et que le jardin semble accompagner chaque pièce."
+    },
+    {
+      "heading": "Une maison qui s'adapte à ses habitants",
+      "text": "Entièrement domotisée, la maison pilote l'éclairage, le chauffage et les protections solaires selon les besoins de ses occupants. La technologie y reste discrète : elle se met au service du confort sans jamais se donner à voir."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/avignon/01.jpg",
+      "alt": "Avignon — cuisine"
+    },
+    {
+      "src": "/assets/projects/avignon/02.jpg",
+      "alt": "Avignon — escalier"
+    },
+    {
+      "src": "/assets/projects/avignon/03.jpg",
+      "alt": "Avignon — salle de bain"
+    },
+    {
+      "src": "/assets/projects/avignon/04.jpg",
+      "alt": "Avignon — salle de bain"
+    }
+  ]
+}

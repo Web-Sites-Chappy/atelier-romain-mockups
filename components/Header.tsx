@@ -28,7 +28,7 @@ export function Header() {
   return (
     <header className={`site-header ${scrolled ? "is-scrolled" : ""}`}>
       <Link href="/" className="brand" aria-label="Atelier Romain — Accueil">
-        <Image src="/assets/logo/logo-olive.png" alt="Atelier Romain" width={180} height={55} priority />
+        <Image src="/assets/logo/logo-points-olive.svg" alt="Atelier Romain" width={457} height={144} priority />
       </Link>
       <button className="menu-toggle" onClick={() => setOpen(!open)} aria-expanded={open} aria-label="Ouvrir le menu">
         <span /><span />
@@ -39,7 +39,7 @@ export function Header() {
           return <Link key={link.href} href={link.href} className={active ? "active" : ""}>{link.label}</Link>;
         })}
       </nav>
-      <Link href="/contact" className="header-cta">Parler de votre projet</Link>
+      <Link href="/contact" className="header-cta">Parlons de votre projet</Link>
     </header>
   );
 }

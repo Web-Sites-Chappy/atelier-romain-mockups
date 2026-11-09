@@ -1,0 +1,35 @@
+{
+  "metaTitle": "L’atelier",
+  "metaDescription": "Découvrez l’Atelier Romain, atelier d’architecture en Provence et son approche sensible, locale et sur mesure.",
+  "heroImage": "/assets/projects/cereste/01.jpg",
+  "heroImageAlt": "Architecture en Provence",
+  "heroEyebrow": "L’atelier",
+  "heroTitle": "Une architecture\n*juste et vivante.*",
+  "stats": [
+    { "number": "10+", "label": "Années d’expérience" },
+    { "number": "50+", "label": "Projets conçus et accompagnés" },
+    { "number": "4500+ m²", "label": "Construits ou réhabilités" },
+    { "number": "100+", "label": "Visites de chantier chaque année" },
+    { "number": "0", "label": "Projet copié-collé" }
+  ],
+  "introEyebrow": "Notre histoire",
+  "introTitle": "Atelier Romain —\n*architecture juste et vivante.*",
+  "introText": "Fondé en 2024, Atelier Romain accompagne les particuliers, les professionnels et les collectivités dans la conception d’espaces adaptés à leurs besoins et à leurs aspirations.\n\nChaque projet naît d’une écoute attentive, d’une compréhension fine de son contexte et d’une rigueur technique mise au service des usages.\n\nAncrés en Provence, nous cultivons une connaissance approfondie du territoire, de ses contraintes climatiques, de ses particularités constructives et de la richesse de son patrimoine bâti.",
+  "introLink": "Voir nos réalisations",
+  "introImage": "/assets/projects/coustellet/01.jpg",
+  "introImageAlt": "Projet de l’Atelier Romain à Coustellet",
+  "philosophyEyebrow": "Notre philosophie",
+  "philosophyTitle": "Nous imaginons des espaces qui *enrichissent le quotidien*, où esthétique, fonctionnalité et durabilité se conjuguent naturellement.",
+  "pillars": [
+    { "number": "01", "title": "Écoute et sur-mesure", "text": "Vos usages, contraintes et aspirations guident chacune de nos décisions." },
+    { "number": "02", "title": "Ancrage territorial", "text": "La lumière, la pierre, le vent et la végétation deviennent partenaires du projet." },
+    { "number": "03", "title": "Transparence", "text": "Des honoraires définis clairement avant le démarrage de chaque mission." }
+  ],
+  "processEyebrow": "Notre méthode",
+  "processTitle": "Un projet maitrisé de A à Z",
+  "processText": "De la première esquisse à la réception des travaux, nous vous accompagnons à chaque étape avec méthode, transparence et exigence. Un dialogue constant et des décisions partagées pour faire avancer votre projet en toute confiance.",
+  "processSteps": ["Écouter & comprendre", "Imaginer & concevoir", "Étudier & concrétiser", "Coordonner & réaliser"],
+  "servicesEyebrow": "Nos prestations",
+  "ctaText": "Un projet en tête ?",
+  "ctaLink": "Parlons-en"
+}

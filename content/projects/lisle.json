@@ -1,0 +1,71 @@
+{
+  "title": "L'Isle-sur-la-Sorgue — Réhabilitation d'une bâtisse agricole",
+  "shortTitle": "L'Isle-sur-la-Sorgue",
+  "metaTitle": "L'Isle-sur-la-Sorgue — Bâtisse agricole réhabilitée",
+  "metaDescription": "Dans la campagne de L'Isle-sur-la-Sorgue, une bâtisse agricole en brique rouge devient une maison de 300 m² ouverte sur le Ventoux. Atelier Romain.",
+  "label": "Maison individuelle · En consultation",
+  "location": "L'Isle-sur-la-Sorgue, Vaucluse",
+  "order": 1,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "Maison individuelle"
+    },
+    {
+      "label": "Lieu",
+      "value": "L'Isle-sur-la-Sorgue, Vaucluse"
+    },
+    {
+      "label": "Surface",
+      "value": "300 m²"
+    },
+    {
+      "label": "Mission",
+      "value": "Complète"
+    },
+    {
+      "label": "Statut",
+      "value": "Consultation des entreprises"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "Au milieu de la campagne de L'Isle-sur-la-Sorgue, loin des routes passantes, se dresse une ancienne bâtisse en brique rouge qui a longtemps servi le travail agricole. Depuis son terrain, le regard embrasse à la fois le Luberon et les monts de Vaucluse. C'est ce lieu, à l'écart et largement ouvert sur le paysage, qui deviendra une maison de 300 m².\n\nLes clients souhaitaient une demeure au caractère affirmé, avec des volumes généreux et des matériaux de grande qualité, capable de tenir son rang face à un tel panorama."
+    },
+    {
+      "heading": "Un changement de destination en zone agricole",
+      "text": "En zone agricole, un bâtiment ne peut pas devenir une habitation sans un changement de destination. Cette autorisation, encadrée de près pour protéger les terres cultivées, demande un dossier solide et beaucoup de patience. Atelier Romain a mené cette démarche avant de développer le projet, aujourd'hui en phase de consultation des entreprises."
+    },
+    {
+      "heading": "Le Ventoux pour horizon",
+      "text": "Ici, c'est le paysage qui a guidé le dessin de la façade. De grandes baies panoramiques s'ouvrent vers les monts de Vaucluse. Leurs châssis fixes ont été pensés comme des cadres plutôt que comme des fenêtres : ils ne servent qu'à regarder. Au loin, le sommet du Mont Ventoux s'inscrit dans l'ouverture et change de couleur au fil des heures, comme un tableau vivant accroché au mur du séjour."
+    },
+    {
+      "heading": "Des matières qui dialoguent avec la brique",
+      "text": "La palette réunit la pierre locale, le béton ciré et l'acier corten. La pierre ancre la maison dans son territoire, tandis que le béton ciré accompagne les grands volumes intérieurs sans les morceler. Quant au corten, il se patine lentement jusqu'à prendre une teinte rouille très proche de celle de la brique d'origine, comme si l'ancien et le nouveau finissaient par parler la même langue."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/lisle/01.jpg",
+      "alt": "L'Isle-sur-la-Sorgue — extérieur"
+    },
+    {
+      "src": "/assets/projects/lisle/02.jpg",
+      "alt": "L'Isle-sur-la-Sorgue — extérieur"
+    },
+    {
+      "src": "/assets/projects/lisle/03.jpg",
+      "alt": "L'Isle-sur-la-Sorgue — intérieur"
+    },
+    {
+      "src": "/assets/projects/lisle/04.jpg",
+      "alt": "L'Isle-sur-la-Sorgue — extérieur"
+    },
+    {
+      "src": "/assets/projects/lisle/05.jpg",
+      "alt": "L'Isle-sur-la-Sorgue — extérieur"
+    }
+  ]
+}

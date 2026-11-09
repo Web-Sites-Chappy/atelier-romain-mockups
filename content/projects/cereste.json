@@ -1,0 +1,47 @@
+{
+  "title": "Céreste — Maison neuve sur restanques",
+  "shortTitle": "Céreste",
+  "metaTitle": "Céreste — Maison neuve sur restanques",
+  "metaDescription": "À Céreste, dans le Parc du Luberon, une maison compacte posée sur d'anciennes restanques, face à la vallée du Calavon. Construction neuve, Atelier Romain.",
+  "label": "Construction neuve · Chantier en cours",
+  "location": "Céreste, Alpes-de-Haute-Provence",
+  "order": 4,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "Construction neuve, maison individuelle"
+    },
+    {
+      "label": "Lieu",
+      "value": "Céreste, Alpes-de-Haute-Provence — Parc naturel régional du Luberon"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "À Céreste, au cœur du Parc naturel régional du Luberon, la colline descend vers la vallée par une succession de restanques en pierre sèche, montées patiemment par des générations d'agriculteurs pour retenir la terre. C'est sur ce coteau, au relief marqué, qu'un couple a choisi de faire construire sa maison."
+    },
+    {
+      "heading": "Lire la pente plutôt que l'effacer",
+      "text": "La topographie du terrain est complexe, et il aurait été tentant de l'aplanir. Le projet a fait le choix inverse : il compose avec les restanques existantes et s'inscrit dans leurs lignes, de sorte que la maison semble s'installer dans le paysage plutôt que s'y imposer. Ce dialogue avec le sol a guidé l'implantation comme les niveaux intérieurs."
+    },
+    {
+      "heading": "La juste taille",
+      "text": "Le budget des clients était serré, et la maison a été dessinée en conséquence. Plus compacte qu'une construction habituelle, elle a demandé un travail précis sur chaque mètre carré, afin que rien ne soit perdu et que chaque espace trouve son usage. Cette économie de moyens, loin d'appauvrir le projet, lui donne au contraire sa cohérence et sa simplicité."
+    },
+    {
+      "heading": "Un grand paysage pour une petite maison",
+      "text": "Depuis le terrain, le regard s'étend sur la vallée du Calavon, puis sur la longue ligne du massif du Luberon, jusqu'aux monts de Vaucluse qui ferment l'horizon. La maison est modeste par sa surface, mais elle s'ouvre sur l'un des plus beaux panoramas de la Haute-Provence."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/cereste/01.jpg",
+      "alt": "Céreste — extérieur"
+    },
+    {
+      "src": "/assets/projects/cereste/02.jpg",
+      "alt": "Céreste — intérieur"
+    }
+  ]
+}

@@ -10,7 +10,16 @@ $artifactRoot = Join-Path $projectRoot 'artifacts'
 New-Item -ItemType Directory -Force -Path $artifactRoot | Out-Null
 $archive = Join-Path $artifactRoot 'atelier-romain-hostinger.zip'
 Add-Type -AssemblyName System.IO.Compression.FileSystem
+Add-Type -AssemblyName System.IO.Compression
 if (Test-Path -LiteralPath $archive) { Remove-Item -LiteralPath $archive }
-[System.IO.Compression.ZipFile]::CreateFromDirectory($exportRoot, $archive)
+$zip = [System.IO.Compression.ZipFile]::Open($archive, [System.IO.Compression.ZipArchiveMode]::Create)
+try {
+    foreach ($file in Get-ChildItem -LiteralPath $exportRoot -Recurse -File -Force) {
+        $entryName = $file.FullName.Substring($exportRoot.Length + 1).Replace('\', '/')
+        [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile($zip, $file.FullName, $entryName, [System.IO.Compression.CompressionLevel]::Optimal) | Out-Null
+    }
+} finally {
+    $zip.Dispose()
+}
 Write-Output "Listo: $archive"
 Write-Output 'Extrae el contenido del ZIP directamente en public_html del dominio.'

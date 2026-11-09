@@ -1,0 +1,75 @@
+{
+  "title": "Pernes-les-Fontaines — Restauration d'un mas",
+  "shortTitle": "Pernes-les-Fontaines",
+  "metaTitle": "Pernes-les-Fontaines — Restauration d'un mas en SPR",
+  "metaDescription": "Restaurer un mas fissuré sans perdre son âme. À Pernes-les-Fontaines, 350 m² en Site Patrimonial Remarquable, entre tomettes et carreaux ciment.",
+  "label": "Restauration",
+  "location": "Pernes-les-Fontaines, Vaucluse",
+  "order": 6,
+  "fields": [
+    {
+      "label": "Type",
+      "value": "Restauration, maison individuelle"
+    },
+    {
+      "label": "Lieu",
+      "value": "Pernes-les-Fontaines, Vaucluse — Site Patrimonial Remarquable"
+    },
+    {
+      "label": "Surface",
+      "value": "350 m²"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "À propos du projet",
+      "text": "Il y a des maisons qu'on achète pour ce qu'elles seront. Ce mas de 350 m², à deux pas du centre de Pernes-les-Fontaines, en fait partie. Fissuré, la toiture à bout de souffle, il cachait pourtant des trésors. Une jeune famille a su les voir."
+    },
+    {
+      "heading": "D'abord, tenir debout",
+      "text": "Avant la beauté vient la structure. Les fissures sont traitées. La toiture est reprise en totalité. Un désamiantage complet assainit la maison avant que les enfants ne s'y installent."
+    },
+    {
+      "heading": "Ce que le temps a laissé",
+      "text": "La pierre de taille encadre encore les ouvertures. L'escalier d'époque est conservé. Au sol, les tomettes portent la patine des années. Le quartier est classé Site Patrimonial Remarquable, chaque intervention se fait sous le regard de l'Architecte des Bâtiments de France."
+    },
+    {
+      "heading": "Une touche de couleur",
+      "text": "La nouvelle vie arrive en couleur. Par endroits, des carreaux ciment vifs viennent bousculer cette mémoire. Le contraste est franc et assumé. Il dit qu'une famille habite ici, maintenant."
+    },
+    {
+      "heading": "Des murs qui respirent",
+      "text": "Les enduits sont réalisés à la chaux, dans le respect de la tradition. Ils laissent la maçonnerie respirer. Le confort thermique a fait l'objet d'un travail approfondi. Dehors, le jardin est redessiné. La maison s'agrandit vers l'extérieur."
+    }
+  ],
+  "images": [
+    {
+      "src": "/assets/projects/pernes/01.jpg",
+      "alt": "Pernes-les-Fontaines — façade"
+    },
+    {
+      "src": "/assets/projects/pernes/02.jpg",
+      "alt": "Pernes-les-Fontaines — entrée"
+    },
+    {
+      "src": "/assets/projects/pernes/03.jpg",
+      "alt": "Pernes-les-Fontaines — escalier"
+    },
+    {
+      "src": "/assets/projects/pernes/04.jpg",
+      "alt": "Pernes-les-Fontaines — cuisine"
+    },
+    {
+      "src": "/assets/projects/pernes/05.jpg",
+      "alt": "Pernes-les-Fontaines — bureau"
+    },
+    {
+      "src": "/assets/projects/pernes/06.jpg",
+      "alt": "Pernes-les-Fontaines — WC"
+    },
+    {
+      "src": "/assets/projects/pernes/07.jpg",
+      "alt": "Pernes-les-Fontaines — chantier"
+    }
+  ]
+}
